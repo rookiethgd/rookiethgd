@@ -1,0 +1,2 @@
+# rookie
+My github config.
