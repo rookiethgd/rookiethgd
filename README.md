@@ -2,7 +2,7 @@
 I am a web application developer
 
 ## Skills
-- Front-end development using **VanillaCSS, HTML**
+- Front-end development using **VanillaCSS, VanillaJS, HTML**
 - Backend development using **PHP**
 
 ## Contact Me
