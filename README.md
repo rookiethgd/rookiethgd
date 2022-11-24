@@ -11,3 +11,7 @@ I am a web application developer
 ## Contact Me
 - Discord - [rookie#1337](https://www.discoid.cc/1032725033044426783)
 ---
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiethgd&layout=compact&theme=radical" />
+</p>
