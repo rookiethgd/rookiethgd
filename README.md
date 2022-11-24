@@ -1,9 +1,11 @@
 # rookie
 I am a web application developer
+I also do Desktop App UI/UX development
 
 ## Skills
 - Front-end development using **VanillaCSS, VanillaJS, HTML**
 - Backend development using **PHP**
+- Desktop App UI/UX designs using **WinForms (Guna2,  Bunifu)**
 
 ## Learning
 - Backend developing using **NODE JS**
