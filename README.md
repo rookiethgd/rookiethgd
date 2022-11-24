@@ -1,6 +1,6 @@
 # rookie
-I am a web application developer
-I also do Desktop App UI/UX development
+- I am a web application developer
+- I also do Desktop App UI/UX development
 
 ## Skills
 - Front-end development using **VanillaCSS, VanillaJS, HTML**
