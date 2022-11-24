@@ -13,7 +13,9 @@
 ## Contact Me
 - Discord - [rookie#1337](https://www.discoid.cc/1032725033044426783)
 ---
+
 ## Stats
+-
 <p align='center'>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=rookiethgd" />
 </p>
