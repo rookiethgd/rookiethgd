@@ -12,6 +12,7 @@
 
 ## Contact Me
 - Discord - [rookie#1337](https://www.discoid.cc/1032725033044426783)
+- Session - [0527dfc41d44d184c8385ca1c84b450f63c80b78381e3d2552a8753dfeed1e5b01](https://getsession.org)
 ---
 
 <p align='center'>
