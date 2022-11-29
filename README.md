@@ -20,4 +20,7 @@
 
 <p align='center'>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Json" src="https://img.shields.io/badge/-Css-43853d?style=flat-square&logo=css&logoColor=white" />
 </p>
