@@ -1,5 +1,3 @@
-<body background=
-"https://media.geeksforgeeks.org/wp-content/uploads/rk.png">
 # About me
 - I am a web application developer
 - I also do Desktop App UI/UX development
