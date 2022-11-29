@@ -19,5 +19,5 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiethgd&show_icons=true&theme=dark&hide_border=true" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
 </p>
